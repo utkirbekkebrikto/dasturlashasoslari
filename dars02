@@ -1,0 +1,70 @@
+# matn=input('enter your name')
+# ism="Utkirbek"
+# familya="Qurbonov"
+# ism_familya=ism+" "+familya
+# print(ism_familya)
+# vatan=input('vataningiz qayerda?')
+# viloyat=input('viloyatingiz qayerda?')
+# tuman=input("tumaningizni kiriting")
+# qfy=input("qfyni kiriting")
+# kucha=input("kucha kiriting")
+# uy=input("uy kiriting")
+# natija="sizning "+vatan.capitalize()+" vataningiz "+" "+viloyat.capitalize()+" vilayatingiz  "+tuman.capitalize()+" tumaningiz "+qfy.capitalize()+" qfygiz "+kucha.capitalize()+"ko'changiz"+uy+"uyingiz"
+# print(natija)
+# metodlar
+from itertools import count
+from operator import truediv
+
+# about="men 1996-yil 2-sentabrda jizzax viloyati zarbdor tumani andijon qfyda qongirot ko'chasi 18-uyda tug'ilganman"
+# barchasi katta
+# print(davlat.upper())
+# barchasi kichik
+# print(davlat.lower())
+# print(about)
+# bosh harfi katta
+# print(about.capitalize())
+# ismingiz="Sha'xzoda"
+# print("shu ism ",len(ismingiz),"belgidan iborat")
+# print(about)
+# print(len(about))
+# parol=input("Password:")
+# if len(parol)<8:
+#     print('kechirasiz 8 ta bo\'lishi kerak')
+# else:
+#     print('tizimga kirdingiz tabriklayman')
+# matn=("Farg‘ona viloyati Quva tumanida ichki "
+#       "ishlar xodimlari uch aka-uka yuritadigan oshxonada "
+#       "kabob yeb, pulini to‘lamay kelgan. Qarzdorlik ko‘payib ketgach, "
+#       "o‘z haqini talab qilgan tadbirkorga xodimlar tomonidan bosim boshlangan.")
+# print(matn)
+# print(sorted(matn))
+# print(matn.center())
+# print(matn.find("n"))
+# print(matn.index('e'))
+
+# print(matn.replace(input("oldingi matini kiriting"), input("keyingi matnnui kiriting")))
+# print(matn.find("aka-uka"))
+# # print(matn[4:9])
+# print(matn.count('kabob'))
+# print(matn.title())
+# ism="utkir"
+# n=1.2
+# k=12345
+# l=bool
+# a=[]
+# print(type(ism))
+# print(type(n))
+# print(type(k))
+# print(type(l))
+# print(type(a))
+
+# Listlar ro'yxatlar'
+# guruh112=["ABDUALIMOVA MUATTAR AKMAL QIZI","ABDUQAXXAROV RUSTAMJON G‘AFURJON O‘G‘LI","ARTUQBAYEVA SHAXZODA NASIBBEK QIZI","BAXROMOVA MOXIRA ABDUJALIL QIZI"]
+# soni=len(guruh112)
+# print(soni)
+# print(guruh112[0])
+# print(guruh112[1])
+# print(guruh112[2])
+# print(guruh112[3])
+# for guruh in guruh112:
+#     print(guruh)
