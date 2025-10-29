@@ -1,0 +1,84 @@
+# massivlar
+import math
+
+# print(dasturchilar)
+# dasturchilar['id']="Humoyun"
+# print(dasturchilar)
+# x=dasturchilar.sort()
+# print(dasturchilar.sort())
+# # print(dasturchilar[:2])
+# # print(dasturchilar[2:])
+# # print(dasturchilar[-3])
+# # print(dasturchilar[3])
+# qoshish
+# thislist = ["apple", "banana", "cherry"]
+# thislist.insert(0, "watermelon")
+# print(thislist)
+
+# dasturchilar=["Behruz","Asadbek","Rayxona","Shahzoda"]
+# natijas=dasturchilar.append("Humoyun")
+# print(natijas)
+# print(dasturchilar)
+# taxlash=dasturchilar.sort()
+# print(dasturchilar)
+# haydash=dasturchilar.remove("Rayxona")
+# print(dasturchilar)
+# thislist = ["apple", "banana", "cherry"]
+# thislist.pop(1)
+# print(thislist)
+# thislist = ["apple", "banana", "cherry"]
+# thislist.pop()
+# print(thislist)
+# thislist = ["apple", "banana", "cherry"]
+# del thislist[1]
+# print(thislist)
+# thislist = ["apple", "banana", "cherry"]
+# thislist.clear()
+# print(thislist)
+# dasturchilar=["Behruz","Asadbek","Rayxona","Shahzoda"]
+# qush=dasturchilar.insert(0,"Humoyun")
+# for harbittasi in dasturchilar:
+#     print(harbittasi)
+# n=int(input(" 1dan n gacha sonlarning yigindisi 1.....n"))
+# s=0
+# for i in range(1,n+1):
+#     s=s+i
+# print(s)
+
+# n=int(input("qadamlar"))
+#
+# for i in range(1,n+1):
+#     for j in range(1,n+1):
+#         print(i,"*",j,"=",i*j)
+
+# math.factorial()
+# dasturchilar=["Behruz","Asadbek","Rayxona","Shahzoda"]
+# print(len(dasturchilar))
+# hislat=[18,19,20,21]
+# for x in range(len(dasturchilar)):
+#     for y in range(len(hislat)):
+#      print(x+1,"-",dasturchilar[x],"-",hislat[y],"yoshda")
+# fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+# newlist = []
+# print(newlist)
+# #
+# for x in fruits:
+#   if "r" in x:
+#     newlist.append(x)
+#
+# print(newlist)
+# fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+#
+# newlist = [x for x in fruits if "w" in x]
+#
+# print(newlist)
+# thislist = [100, 50, 65, 82, 23]
+# thislist.sort()
+# print(thislist)
+# thislist = ["orange", "mango", "kiwi", "pineapple", "banana"]
+# thislist.sort(reverse = True)
+# print(thislist)
+# thislist = ["apple", "banana", "cherry"]
+# mylist = thislist.copy()
+# print(mylist)
+  
