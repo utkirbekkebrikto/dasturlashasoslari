@@ -1,0 +1,47 @@
+# a=[1,2,3]
+#
+# for harf in "nurbek":
+#     print(harf)
+# n=int(input("n="))
+# s=0
+# for i in range(1,n+1):
+#     s=s+i
+# print("1....n S",s)
+# baho=int(input("bahoni kiriting Baho="))
+# for qadam in range(80):
+#     print("Kofe tayorlanmoqda..")
+# print("80 kofe tayyor bo'ldi ")
+# for i in range(1,11):
+#     baho=int(input(f"{i}-Oing bahosi"))
+#     print("bahosi:",baho)
+
+# for i in range(1,25):
+#     if i%2==0:
+#         continue
+#     print(i)
+# islom_davklatlar=[]
+# yevropa=[]
+# buda=[]
+# davlatlar=[islom_davklatlar,yevropa,buda]
+# print(davlatlar)
+
+# while
+# while shart:
+    # operator
+# balans=5000
+# while balans>0:
+#     print("Balans:",balans)
+#     balans-=1000
+# print("bank bankrot  buldi")
+# for parol in range (4):
+#     parol=input("Parolni kiriting ..")
+#     if parol=="kebrikto":
+#         print("kirish muvofaqiyatli ... Tabriklaymiz")
+#         break
+# else:
+#         print("tizim bloklandi 59-secondan keyn kiring")
+raqam=" "
+while raqam!="998":
+    raqam=input("Telefon conini kiriting +998..")
+    print("togri kod kiritildi")
+    
